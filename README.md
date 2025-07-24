@@ -1,4 +1,8 @@
-# MERN Notes App 📝
+<div align="center">
+  
+  # MERN Notes App 📝
+  
+</div>
 
 A full-stack notes application built with **MongoDB**, **Express**, **React**, and **Node.js** — featuring note CRUD operations, rate limiting, and responsive design. 
 ## 🚀 Features
